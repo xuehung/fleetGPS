@@ -1,0 +1,5 @@
+#DEVICE_NAME = '/dev/ttyUSB0'
+DEVICE_NAME = '/dev/tty.usbserial-AM017Y4G'
+BAUDRATE = 115200
+GW_ID = 1
+MSG_POS_TYPE = 2
